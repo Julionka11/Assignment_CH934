@@ -1,0 +1,22 @@
+===================================================================================
+SLURM Job ID:            11907686
+Submit time:             Tue Mar 25 10:22:49 GMT 2025 (Unix Epoch time: 1742898169)
+Start time:              Tue Mar 25 10:22:50 GMT 2025 (Unix Epoch time: 1742898170)
+No. nodes:               1
+No. tasks:               16
+Job name:                CH934_ASSIGNMENT
+Account:                 teaching
+QoS:                     teaching
+Partition (queue):       teaching
+Submit directory:        /users/gpb19193/Assignment_CH934/CH934
+Script name:             /users/gpb19193/Assignment_CH934/CH934/assignment_16cpu_ch934.sh
+Master node:             wee16
+Nodes used:              wee16
+Task distribution:       
+===================================================================================
+
+===================================================================================
+SLURM job 11907686 ended:     Tue Mar 25 10:23:59 GMT 2025 (Unix Epoch time: 1742898239)
+This is an estimated end time using the 'date' command from node wee16.hpc.strath.ac.uk
+For accurate timings, use 'sacct -j 11907686 -X --format=Submit,Start,End,Elapsed'
+======================================================================================
